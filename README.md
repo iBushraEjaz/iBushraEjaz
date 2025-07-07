@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Bushra Ejaz
 
-<!--
-**iBushraEjaz/iBushraEjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate | AI Engineer (CV + DL) | Python Developer
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages**: Python, JavaScript
+- **Frameworks**: Flask, React, Node.js
+- **Tools**: YOLOv8, VGG16, MongoDB, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Advanced Deep Learning
+
+## 📫 Connect with me
+- LinkedIn: [linkedin.com/in/bushraejazkhan](www.linkedin.com/in/bushraejazkhan)
+- Portfolio: [your-portfolio-link](https://your-portfolio.com)
+- Email: you@example.com
