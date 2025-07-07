@@ -19,7 +19,7 @@
   <a href="mailto:bushraejaz.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[https://www.youtube.com/@BushraCodes](https://www.youtube.com/@BushraCodes)" target="_blank">
+  <a href="https://www.youtube.com/@BushraCodes" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~yourID" target="_blank">
