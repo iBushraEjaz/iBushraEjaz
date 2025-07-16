@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Bushra Ejaz
-![Profile Views](https://komarev.com/ghpvc/?username=iBushraEjaz&style=for-the-badge&color=blueviolet)
-
 
 🎓 Computer Science graduate | AI Engineer (CV + DL) | Python Developer
 
@@ -33,3 +31,4 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=iBushraEjaz&style=for-the-badge&color=blueviolet)
