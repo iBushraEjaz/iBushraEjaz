@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Bushra Ejaz
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=iBushraEjaz.iBushraEjaz&left_color=blue&right_color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=iBushraEjaz&style=for-the-badge&color=blueviolet)
+
 
 🎓 Computer Science graduate | AI Engineer (CV + DL) | Python Developer
 
